@@ -10,3 +10,7 @@ La structure de l'application possède les champs :
 - Numéro de série
 - Prix
 - Date de la transaction
+
+
+Source :
+https://github.com/hyperledger/education
